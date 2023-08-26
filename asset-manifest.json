@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.4f54f112.css",
+    "main.js": "/my-app/static/js/main.139a3295.js",
+    "static/media/bg-hero.jpg": "/my-app/static/media/bg-hero.743f7eb58f24c1c5ca25.jpg",
+    "static/media/focused.svg": "/my-app/static/media/focused.641d4a17efaed55afced22b3055d5640.svg",
+    "static/media/video-section.jpg": "/my-app/static/media/video-section.d1fe74bfad45299e2bc0.jpg",
+    "static/media/features-3.jpg": "/my-app/static/media/features-3.1efcb41bff5716ba9f9f.jpg",
+    "static/media/features-2.jpg": "/my-app/static/media/features-2.dcd46fd5fb221cb581c9.jpg",
+    "static/media/features-1.jpg": "/my-app/static/media/features-1.f95b1de9bda02b93a5ba.jpg",
+    "static/media/we-support.jpg": "/my-app/static/media/we-support.2523f4066425a1691237.jpg",
+    "static/media/header-logo.svg": "/my-app/static/media/header-logo.b919a683ad4624c95d4312970395765e.svg",
+    "static/media/focused-logo-appstr.svg": "/my-app/static/media/focused-logo-appstr.2934b3a38f7074077dea29446ede12df.svg",
+    "static/media/tech-card-4.svg": "/my-app/static/media/tech-card-4.97fe9645e795ece121b9a67f12223166.svg",
+    "static/media/tech-card-1.svg": "/my-app/static/media/tech-card-1.fc61551a09ff02e05bdfd0575c0398ea.svg",
+    "static/media/tech-card-3.svg": "/my-app/static/media/tech-card-3.50ab359d71693f413f188f59e8622605.svg",
+    "static/media/tech-card-2.svg": "/my-app/static/media/tech-card-2.65562cc11b152de8a55c50ec3ff12901.svg",
+    "static/media/focused-logo-play.svg": "/my-app/static/media/focused-logo-play.0fd6c7eb39583ce47cd6b660f2b129c4.svg",
+    "static/media/logo-linkedin.svg": "/my-app/static/media/logo-linkedin.58f42e97363f5ccce6b6672544f75d31.svg",
+    "static/media/logo-twitter.svg": "/my-app/static/media/logo-twitter.db97ad1af0734ce7df5405edd66b6e31.svg",
+    "index.html": "/my-app/index.html",
+    "static/media/logo-fb.svg": "/my-app/static/media/logo-fb.37964d175c091b5019d7eef15635a219.svg",
+    "static/media/focused-logo-windws.svg": "/my-app/static/media/focused-logo-windws.b09c1678eaf16c595fdf56423d5540f0.svg",
+    "static/media/burger-menu.svg": "/my-app/static/media/burger-menu.d2e20b4f1998fd6398034dac36c61f16.svg",
+    "main.4f54f112.css.map": "/my-app/static/css/main.4f54f112.css.map",
+    "main.139a3295.js.map": "/my-app/static/js/main.139a3295.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f54f112.css",
+    "static/js/main.139a3295.js"
+  ]
+}
